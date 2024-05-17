@@ -1,0 +1,49 @@
+Idea: Página Web de Animales Perdidos, Abandonados ...
+
+
+Nombre: LostPaws
+
+
+Posible competencia:
+
+	- Encuentra tu mascota perdido: Tiene un diseño bueno y tiene más o menos todo lo que tengo pensado.
+
+
+	- Perros perdidos y encontrados: Solo perros, En mi caso daré la posibilidad de buscar por más animales.
+
+
+Ideas:
+
+	1) Sistema de Registro y Búsqueda Avanzada: Implementa un sistema de registro detallado para los animales perdidos y encontrados, que incluya características como especie, raza, color, tamaño, 
+           ubicación y fecha. Esto facilitará a los usuarios buscar y filtrar los animales según sus preferencias y ubicación.
+
+	2) Galería de Fotos y Descripciones Detalladas: Proporciona galerías de fotos de alta calidad de los animales perdidos y encontrados, junto con descripciones detalladas de su apariencia, 
+   	   personalidad, comportamiento y cualquier información relevante sobre su salud o necesidades especiales.
+
+	3) Mapa Interactivo de Ubicaciones: Incorpora un mapa interactivo que muestre las ubicaciones exactas donde se perdieron o encontraron los animales. Esto ayudará a los usuarios a visualizar rápidamente 
+           las áreas donde podrían haberse extraviado sus mascotas o donde podrían encontrar animales perdidos.
+
+	4) Alertas por Correo Electrónico o Notificaciones Push: Permite a los usuarios suscribirse a alertas por correo electrónico o notificaciones push para recibir actualizaciones sobre nuevos animales perdidos
+           o encontrados que coincidan con sus criterios de búsqueda.
+
+	5) Recursos Educativos y Consejos para Dueños de Mascotas: Agrega una sección de recursos educativos donde los usuarios puedan encontrar información sobre cómo prevenir que sus mascotas se pierdan,
+           qué hacer si encuentran un animal perdido, consejos de adiestramiento, cuidado de mascotas, etc.
+
+	6) Enlaces a Organizaciones de Rescate y Refugios: Proporciona enlaces y recursos para organizaciones locales de rescate de animales y refugios de animales donde los usuarios puedan buscar ayuda adicional
+           o encontrar recursos para ayudar a los animales necesitados.
+
+	7) Historias de Éxito y Reencuentros: Destaca historias conmovedoras de éxito sobre animales perdidos que fueron encontrados y reunidos con sus familias, para brindar esperanza y motivación a aquellos que están buscando
+	   a sus mascotas perdidas.
+
+	8) Foro o Comunidad en Línea: Crea un espacio en el sitio web donde los usuarios puedan conectarse entre sí, compartir experiencias, consejos, fotos de sus mascotas perdidas o encontradas, y brindarse apoyo mutuo
+           durante momentos difíciles.
+
+	9) Sección de Donaciones o Voluntariado: Si es relevante, incluye una sección donde los visitantes puedan hacer donaciones para apoyar el funcionamiento del sitio web o ofrecerse como voluntarios para ayudar
+	   en la búsqueda y rescate de animales perdidos.
+
+       10) Testimonios y Opiniones de Usuarios: Presenta testimonios y opiniones de usuarios que hayan utilizado la página para encontrar a sus mascotas perdidas o para ayudar a reunir a animales perdidos con sus familias.
+	    Esto puede ayudar a construir confianza y credibilidad en el sitio web.
+
+       11) Intentar implementar IA: Está ayudaría a buscar más concretamente dentro de la base de datos y dandole ayuda (DIFICIL DE IMPLEMENTAR).
+
+       12) Los Animales perdidos serán subidos a nuestras redes sociales para que haya mas visibilidad.
