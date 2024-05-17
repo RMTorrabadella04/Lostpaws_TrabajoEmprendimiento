@@ -2,7 +2,7 @@
 ### LostPaws es una página web dedicada a ayudar a encontrar a los animales perdidos y/o abandonados. Nuestra misión es conectar a las personas con sus mascotas perdidas y brindarles las herramientas necesarias para encontrarlos lo más rápido posible.
 
 ###### Características de LostPaws
-* Directorio en línea de animales perdidos y/o abandonados
+*Directorio en línea de animales perdidos y/o abandonados
 * Búsqueda por ubicación
 * Alertas de animales perdidos
 * Compartir anuncios en redes sociales
