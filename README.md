@@ -22,3 +22,9 @@ Los usuarios pueden publicar anuncios con información detallada sobre su mascot
 1. Introduzca su código postal o ciudad en el cuadro de búsqueda.
 2. Haga clic en el botón "Buscar".
 3. Revise los resultados y póngase en contacto con los dueños si encuentra una coincidencia.
+
+
+###### Link a Redes Sociales
+
+Instagram: [lostpaws_oficial](https://www.instagram.com/lostpaws_oficial?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
+Email: lostpaws.oficial@gmail.com
