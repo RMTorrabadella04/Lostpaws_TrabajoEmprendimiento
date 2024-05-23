@@ -27,4 +27,5 @@ Los usuarios pueden publicar anuncios con información detallada sobre su mascot
 ###### Link a Redes Sociales
 
 Instagram: [lostpaws_oficial](https://www.instagram.com/lostpaws_oficial?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
+
 Email: lostpaws.oficial@gmail.com
