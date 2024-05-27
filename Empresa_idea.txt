@@ -47,3 +47,61 @@ Ideas:
        11) Intentar implementar IA: Está ayudaría a buscar más concretamente dentro de la base de datos y dandole ayuda (DIFICIL DE IMPLEMENTAR).
 
        12) Los Animales perdidos serán subidos a nuestras redes sociales para que haya mas visibilidad.
+
+
+
+Cliente Caliente
+
+
+ 1) Propietarios de Mascotas:
+
+	- Personas que han perdido a sus mascotas y buscan ayuda para encontrarlas.
+
+	- Dueños preocupados por la seguridad de sus animales y que desean estar informados sobre mascotas perdidas en su área.
+
+
+ 2) Adoptantes Potenciales:
+
+	- Individuos o familias interesados en adoptar animales abandonados.
+	
+	- Personas que ya han adoptado y están dispuestas a adoptar nuevamente en el futuro.
+
+
+ 3) Voluntarios y Activistas:
+
+	- Personas que quieren contribuir de alguna manera, ya sea ofreciendo su tiempo, dinero o recursos.
+
+	- Grupos de rescate de animales y organizaciones sin fines de lucro que buscan colaborar y promover la adopción.
+
+
+4) Veterinarios y Clínicas Veterinarias:
+
+	- Profesionales que pueden ofrecer servicios de salud a los animales rescatados.
+	
+	- Clínicas que quieren promover su negocio a través de la colaboración con la página.
+
+
+
+Sistema de Fidelizacion
+
+
+1) Donaciones y Crowdfunding
+
+	 - Botones de Donación: Botones de donación visibles en todas las páginas. Plataformas como PayPal, Stripe, o Patreon pueden facilitar las donaciones recurrentes.
+
+	 - Campañas de Crowdfunding: Realización  de campañas periódicas en plataformas como GoFundMe o Kickstarter para proyectos específicos, como la construcción de refugios, campañas de esterilización, o rescates masivos.
+
+
+
+2) Publicidad y Patrocinios
+
+	- Anuncios de Google AdSense: Implementación de Google AdSense para mostrar anuncios relevantes. Ganas dinero por cada clic en los anuncios.
+
+	- Patrocinios de Empresas Locales: Colaboración con veterinarios, tiendas de mascotas y otros negocios locales que puedan estar interesados en patrocinar la página a cambio de publicidad.
+
+	- Anuncios en Redes Sociales: Publicación de  anuncios en los perfiles de redes sociales para llegar a una audiencia más amplia.
+
+
+3) Subvenciones y Fondos: Solicitación de subvenciones de fundaciones y organizaciones sin fines de lucro que apoyen el bienestar animal.
+
+
